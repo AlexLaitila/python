@@ -1,1 +1,1 @@
-Simple expense tracker in python, using csv file where all the expenses are stored.
+Simple expense tracker in Python, using CSV file where all the expenses are stored.
